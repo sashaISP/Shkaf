@@ -1,16 +1,9 @@
-# shkaf
+# Практическая работа "Шкаф"
 
-A new Flutter project.
+## Узкий шкаф
 
-## Getting Started
+![image](https://github.com/sashaISP/Shkaf/assets/160009685/4f30ac4a-ce33-4522-a653-78aa0e642a4a)
 
-This project is a starting point for a Flutter application.
+## Широкий шкаф
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/sashaISP/Shkaf/assets/160009685/72c86434-60a8-4a3a-a31e-cad6f9dff313)
